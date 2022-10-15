@@ -1,0 +1,27 @@
+nav {
+    background-color: #FD841F;
+    font-family: sans-serif;
+}
+body{
+
+    background-color: #9C2C77;
+}
+h1{ 
+    text-align: center;
+    font-family: sans-serif;
+    fill: chocolate;
+    font-weight: 500;
+}
+article{
+
+    text-align: center;
+    background-color: #E14D2A;
+    border-color: #CD104D;
+    
+}
+ul{
+    list-style-position: inside;
+}
+
+
+
